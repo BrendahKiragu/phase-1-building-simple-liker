@@ -4,7 +4,8 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
-
+const hiddenClass = document.getElementById('modal')
+hiddenClass.className = "hidden"
 
 
 //------------------------------------------------------------------------------
